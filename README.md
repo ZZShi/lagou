@@ -15,5 +15,4 @@
 还需要加个延时，降低爬虫的速度。
 
 ## 结果展示
-<br>
-![结果](https://github.com/ZZShi/lagou/blob/master/lagou/result/result.png)
+<br> ![结果](https://github.com/ZZShi/lagou/blob/master/lagou/result/result.png)
