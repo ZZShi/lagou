@@ -15,6 +15,5 @@
 还需要加个延时，降低爬虫的速度。
 
 ## 结果展示
-由于时间及电脑内存限制，目前只爬取了10000+条数据，日后会对结果做一个数据分析
 <br>
 ![结果](https://github.com/ZZShi/lagou/blob/master/lagou/result/result.png)
